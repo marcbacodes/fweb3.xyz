@@ -450,7 +450,7 @@ export default function Home() {
                 least 100 $FWEB3 tokens in order to do this.
               </p>
               <p>
-                <a href="https://polygonscan.com/address/0x718ad63821a6a3611Ceb706f15971ee029812365#writeContract">
+                <a href="https://polygonscan.com/address/0x718ad63821a6a3611Ceb706f15971ee029812365#writeContract" style = "word-break: break-all">
                   https://polygonscan.com/address/0x718ad63821a6a3611Ceb706f15971ee029812365#writeContract
                 </a>
               </p>
